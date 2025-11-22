@@ -1,0 +1,14 @@
+Gender,Age,Payment Method,Churn,LastTransaction,Region
+female,49,credit card,churn,158,California
+female,24,cash,churn,162,California
+male,45,credit card,loyal,55,California
+male,45,credit card,loyal,160,California
+female,66,cash,churn,156,California
+female,82,cash,churn,177,California
+female,35,credit card,loyal,176,California
+female,17,credit card,loyal,133,California
+male,52,cash,loyal,193,California
+female,49,credit card,churn,183,California
+female,33,credit card,,194,California
+male,40,credit card,loyal,110,California
+female,53,credit card,churn,187,California
